@@ -38,7 +38,7 @@ The "getApiInfo()" store in database for up to 24 hours Then, you just need to c
 
 For the "user details request" default cache is used to fetch.
 
- Git  has been used for versioning the  code base: https://github.com/coder_d/wordpress_pluggin;  
+ Git  has been used for versioning the  code base: https://github.com/coder_d/inpsydeCustomPoint-pluggin;  
 
 Phpunit and Brian monkey library has been used to write test case.
 
